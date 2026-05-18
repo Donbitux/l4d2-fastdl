@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "lex2024\doaxvv\yukino\textures/o-c_base"
+$bumpmap "lex2024\doaxvv\yukino\textures/NRM/o-c_nrm"
+$phongwarptexture "lex2024\doaxvv\yukino\textures/SPE/o-c_spec"
+$phong 		1
+$phongboost 	1
+$phongexponent 	5
+$phongtint "[1 .85 .85]"
+$phongfresnelranges "[.1 .1 5]"  //油亮0.1 0.1 5
+$ambientocclusion 	1
+$lightwarptexture "models\survivors\coach\coach_head_wrp"
+$halflambert 	1
+$nodecal  		1
+$nocull   		1  
+}

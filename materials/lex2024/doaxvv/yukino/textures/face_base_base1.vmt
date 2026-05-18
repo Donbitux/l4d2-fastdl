@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "lex2024\doaxvv\yukino\textures/face_base_base1"
+$bumpmap "lex2024\doaxvv\yukino\textures/NRM/face_base_nrm"
+$phongwarptexture "lex2024\doaxvv\yukino\textures/SPE/face_base_spec"
+$halflambert 1
+$phong 1
+$phongboost 0.3
+$phongexponent 0.3
+$phongtint "[0.6 .35 .35]"
+$phongfresnelranges "[.5 .55 15]"
+$nodecal 1
+$PhongAlbedoTint "1"
+$rimlight 				"1"	
+$rimlightexponent 			"3"
+$rimlightboost			"0.1"
+}
